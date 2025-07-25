@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Hello World! from a gradle based java program  triggered by Pool SCM via  jenkins setup "; 
+        return "Hello World! from a gradle based java program triggered by Pool SCM via  jenkins setup "; 
     }
 
     public static void main(String[] args) {
